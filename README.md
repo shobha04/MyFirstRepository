@@ -1,0 +1,2 @@
+# MyFirstRepository
+IM TRYING TO LEARNN ABOUTT GITHUB .
